@@ -1,10 +1,10 @@
-# smartCheque
+# Digital Cheque
 
-#The project introduces a cutting-edge platform that enables users to create, schedule, and 
+The project introduces a cutting-edge platform that enables users to create, schedule, and 
 track digital cheques while ensuring a robust backend system for bank administrators to 
 validate and process these transactions efficiently.
 
-#PROBLEM SELECTION
+PROBLEM SELECTION
 In the modern banking ecosystem, the traditional cheque system remains cumbersome, time
 consuming, and prone to errors. Users face challenges in managing cheques, including delays 
 in processing, difficulties in tracking their status, and the absence of a digital interface for 
